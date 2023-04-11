@@ -1,0 +1,12 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  stdafx.cpp
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  SqList.cpp
+H:\clouds\在校文档_Openning\教务\所任课程\数据结构\自己的练习\题2-11_顺序表插入与快排\SqList\SqList.cpp(46,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+H:\clouds\在校文档_Openning\教务\所任课程\数据结构\自己的练习\题2-11_顺序表插入与快排\SqList\SqList.cpp(56,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+H:\clouds\在校文档_Openning\教务\所任课程\数据结构\自己的练习\题2-11_顺序表插入与快排\SqList\SqList.cpp(99,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+SqList.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  SqList.vcxproj -> H:\clouds\在校文档_Openning\教务\所任课程\数据结构\自己的练习\题2-11_顺序表插入与快排\Debug\SqList.exe
